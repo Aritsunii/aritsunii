@@ -1,3 +1,5 @@
+<h2 align="center">Bienvenidos a mi perfil</h2>
+
 <p align="center">
   <img src="https://media.discordapp.net/attachments/778418574221115413/882457233156345947/1630464587524.png?width=810&height=810" height="100"/>
 </p>
@@ -5,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=aritsunii&label=Aritsuni profile views&color=yellow&style=flat-square" alt="aritsuni" />
 
 <details open>
-  <summary>My links </summary>
+  <summary>Mis enlaces</summary>
 <div>
   <samp>
 
@@ -27,7 +29,7 @@
          src="https://img.shields.io/badge/newgrounds-yellow.svg?style=for-the-badge&logo=circle&logoColor=white"
          alt="aritsuni" height="30"/></a>
 <br/>
- <a href="https://www.deviantart.com/aritsunii/" target="blank"><img align="center"
+ <a href="https://www.deviantart.com/aritsuni/" target="blank"><img align="center"
          src="https://img.shields.io/badge/deviantart-green.svg?style=for-the-badge&logo=deviantart&logoColor=white"
          alt="aritsuni" height="30"/></a>
 
@@ -55,12 +57,12 @@
 </details>
 
 <details> 
-  <summary>Other</summary>
+  <summary>Arte ascii</summary>
 <div>
   <samp>
 
 > **Warning**
-> I converted my art in ascii OwO ←→
+> Para ver debes mover la pantalla ← →
 
 ```diff
 +                                                                                                                                                                    :.             .7!  .                                                                                                                  
@@ -146,7 +148,7 @@
 </details>
 
 <details>
-  <summary>Model</summary>
+  <summary>Modelo 3D</summary>
 <div>
   <samp>
 
@@ -182,3 +184,9 @@ solid cube_corner
   endfacet
 endsolid
 ```
+  <div>
+</details>
+
+<h2 align="center">Has llegado al final</h2>
+
+<p align="center"><img src="https://media.tenor.com/9XmZUBI_SFUAAAAC/pokemon-braixen.gif" alt="aritsuni" height="300" width="500"></p>
