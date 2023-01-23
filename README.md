@@ -1,7 +1,17 @@
-
+<details>
+  <summary>My links </summary>
+<div>
+  <samp>
+    <h2 align="center">list of my links</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.twitter.com/aritsuni/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="aritsuni" height="30"/></a>
+  
   </div>
 </details> 
-<details open>
+
   <summary> why click this</summary>
 <div>
 <samp>
