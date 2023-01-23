@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/778418574221115413/882457233156345947/1630464587524.png?width=810&height=810" height="100"/>
+</p>
+<br>
 <img src="https://komarev.com/ghpvc/?username=aritsunii&label=Aritsuni profile views&color=yellow&style=flat-square" alt="aritsuni" />
 
 <details open>
@@ -138,3 +142,43 @@
 +                                                                                     .JPPPPPPPPPPPPPP5J7^.                                                                                                                                                                                                  
 ```
   <div>
+
+</details>
+
+<details>
+  <summary>Model</summary>
+<div>
+  <samp>
+
+```stl
+solid cube_corner
+  facet normal 0.0 -1.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 1.0 1.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+  facet normal 0.0 0.0 -1.0
+    outer loop
+      vertex 1.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 1.0 0.0 0.0
+    endloop
+  endfacet
+  facet normal -1.0 0.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+      vertex 0.0 1.0 0.0
+    endloop
+  endfacet
+  facet normal 0.577 0.577 0.577
+    outer loop
+      vertex 1.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+endsolid
+```
