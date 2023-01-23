@@ -1,18 +1,20 @@
+
   </div>
 </details> 
 <details open>
   <summary> why click this</summary>
 <div>
 <samp>
-<h2 align="center">  text  art </h2>
+
+> **Warning**
+> Ascii art here, scroll ←→
+
 </samp>
 </div>
 
-```js
-/*
-                                                                                                                                                                     :.             .7!  .                                                                                                                  
-                                                                                                                                                                     757:           .~:?Y?          .:                                                                                                      
-                                                                                                                                                                     ~BGP7          .7 7P.          !^~.                                                                                                    
+```
+                                                                                                                                                                    :.             .7!  .                                                                                                                  
+                                                                                                                                                                      757:           .~:?Y?          .:                                                                                                                                                                                                                                                                         ~BGP7          .7 7P.          !^~.                                                                                                    
                                                                                                                                                                      7BPPGY:       ^5?  !.          !..!.                                                                                                   
                                                                                                                                                                  .   !GPPPPP^     !PG?  :!          !: :!                                                                                                   
                                                                                          .~:   :       ^               .^    ^.             ^^.                  !^..!GPPPPPP^  .JGPG?   ~^         !.  !:                                                                                                  
@@ -88,6 +90,5 @@
                                                                                       .75GPPPPPPPPPPPPPPPPPGPY7^.                                                                                    5!:7J     ^J!:^JJP::^P.  ~5::~P :P^::P^!5:^^::~Y^J7^::::~J!.P^::PG!:^Y^~5::~P    ^~~~~!!~~~~~.         
                                                                                      :PGPPPPPPPPPPPPPPPGP5J!:                                                                                        .:~~        ~!~. ^~~~^    ~~~~^  ^~~~~ .~~~~~~~.  :~!!!~^.  ^~~~^:~~~: .~~~~:                          
                                                                                      .JPPPPPPPPPPPPPP5J7^.                                                                                                                                                                                                  
-*/
 ```
 </details
