@@ -2,25 +2,28 @@
   <summary>My links </summary>
 <div>
   <samp>
-    <h2 align="center">list of my links</h2>
-    <p align="center">
-      <br/>
-      <a href="https://www.twitter.com/aritsuni/" target="blank"><img align="center"
+
+> **Note**
+> You can go directly to my links from here :)
+
+</div>
+
+<br/>
+ <a href="https://www.twitter.com/aritsuni/" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="aritsuni" height="30"/></a>
   
-  </div>
-</details> 
+  <div>
 
-  <summary> why click this</summary>
+</details>
+
+<details> 
+  <summary>Other</summary>
 <div>
-<samp>
+  <samp>
 
 > **Warning**
-> Ascii art here, scroll ←→
-
-</samp>
-</div>
+> I converted my art in ascii ←→
 
 ```
                                                                                                                                                                     :.             .7!  .                                                                                                                  
@@ -101,4 +104,4 @@
                                                                                      :PGPPPPPPPPPPPPPPPGP5J!:                                                                                        .:~~        ~!~. ^~~~^    ~~~~^  ^~~~~ .~~~~~~~.  :~!!!~^.  ^~~~^:~~~: .~~~~:                          
                                                                                      .JPPPPPPPPPPPPPP5J7^.                                                                                                                                                                                                  
 ```
-</details
+  <div>
