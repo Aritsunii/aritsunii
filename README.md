@@ -1,12 +1,12 @@
 <img src="https://komarev.com/ghpvc/?username=aritsunii&label=Aritsuni profile views&color=yellow&style=flat-square" alt="aritsuni" />
 
-<details>
+<details open>
   <summary>My links </summary>
 <div>
   <samp>
 
 > **Note**
-> You can go directly to my links from here :)
+> Puedes vistar mis enlaces desde aqui :)
 
 </div>
 
@@ -43,7 +43,7 @@
 
 <br/>
  <a href="https://twitch.com/aritsunii" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitch-purple.svg?style=for-the-badge&logo=twitch&logoColor=white"
+         src="https://img.shields.io/badge/twitch-blueviolet.svg?style=for-the-badge&logo=twitch&logoColor=white"
          alt="aritsuni" height="30"/></a>
 
   <div>
