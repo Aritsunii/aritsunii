@@ -11,14 +11,41 @@
 </div>
 
 <br/>
+ <a href="https://www.youtube.com/@aritsuni/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/youtube-red.svg?style=for-the-badge&logo=youtube&logoColor=white"
+         alt="aritsuni" height="30"/></a>
+<br/>
+ <a href="https://www.instagram.com/aritsunii/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-orange.svg?style=for-the-badge&logo=instagram&logoColor=white"
+         alt="aritsuni" height="30"/></a>
+<br/>
+ <a href="https://aritsuni.newgrounds.com/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/newgrounds-yellow.svg?style=for-the-badge&logo=circle&logoColor=white"
+         alt="aritsuni" height="30"/></a>
+<br/>
+ <a href="https://www.deviantart.com/aritsunii/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/deviantart-green.svg?style=for-the-badge&logo=deviantart&logoColor=white"
+         alt="aritsuni" height="30"/></a>
+
+<br/>
  <a href="https://www.twitter.com/aritsuni/" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="aritsuni" height="30"/></a>
 <br/>
- <a href="https://www.instagram.com/aritsunii/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%2016A1F2.svg?style=for-the-badge&logo=instagram&logoColor=white"
+ <a href="https://www.vk.com/aritsuni/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/vk-blue.svg?style=for-the-badge&logo=vk&logoColor=white"
          alt="aritsuni" height="30"/></a>
   
+<br/>
+ <a href="https://ko-fi.com/aritsuni/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/kofi-violet.svg?style=for-the-badge&logo=kofi&logoColor=white"
+         alt="aritsuni" height="30"/></a>
+
+<br/>
+ <a href="https://twitch.com/aritsunii" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitch-purple.svg?style=for-the-badge&logo=twitch&logoColor=white"
+         alt="aritsuni" height="30"/></a>
+
   <div>
 
 </details>
