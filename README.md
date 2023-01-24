@@ -191,5 +191,5 @@ endsolid
 <h2 align="center">Has llegado al final</h2>
 
 
-<p align="center"><img src="https://media.tenor.com/9XmZUBI_SFUAAAAC/pokemon-braixen.gif" alt="braixen" height="300" width="300"></p>
+<p align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/42e77aed-7849-491c-abc9-a5f665e44ffb/dfnj3p6-ab556f01-180b-4039-b167-5faec093e48e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQyZTc3YWVkLTc4NDktNDkxYy1hYmM5LWE1ZjY2NWU0NGZmYlwvZGZuajNwNi1hYjU1NmYwMS0xODBiLTQwMzktYjE2Ny01ZmFlYzA5M2U0OGUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TIzT-xEle8p7pGm3KCri_uFnSaagtdUxRqyTheZGd9I" alt="sprigatito by aritsuni" ></p>
 <a href="https://www.youtube.com/@aritsuni/" target="blank"><img align="center"
