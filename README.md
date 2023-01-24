@@ -44,13 +44,13 @@
          alt="aritsuni" height="30"/></a>
   
 <br/>
- <a href="https://ko-fi.com/aritsuni/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/kofi-violet.svg?style=for-the-badge&logo=kofi&logoColor=white"
+ <a href="https://twitch.com/aritsunii" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitch-blueviolet.svg?style=for-the-badge&logo=twitch&logoColor=white"
          alt="aritsuni" height="30"/></a>
 
 <br/>
- <a href="https://twitch.com/aritsunii" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitch-blueviolet.svg?style=for-the-badge&logo=twitch&logoColor=white"
+ <a href="https://ko-fi.com/aritsuni/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/kofi-violet.svg?style=for-the-badge&logo=kofi&logoColor=white"
          alt="aritsuni" height="30"/></a>
 
   <div>
