@@ -1,6 +1,7 @@
 <h2 align="center">Bienvenidos a mi perfil</h2>
 
 <p align="center">
+  <a href="https://www.youtube.com/@aritsuni/" target="blank"><img align="center"
   <img src="https://media.discordapp.net/attachments/778418574221115413/882457233156345947/1630464587524.png?width=810&height=810" height="100"/>
 </p>
 <br>
@@ -189,4 +190,6 @@ endsolid
 
 <h2 align="center">Has llegado al final</h2>
 
-<p align="center"><img src="https://media.tenor.com/9XmZUBI_SFUAAAAC/pokemon-braixen.gif" alt="aritsuni" height="300" width="500"></p>
+
+<p align="center"><img src="https://media.tenor.com/9XmZUBI_SFUAAAAC/pokemon-braixen.gif" alt="braixen" height="300" width="300"></p>
+<a href="https://www.youtube.com/@aritsuni/" target="blank"><img align="center"
