@@ -2,10 +2,9 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@aritsuni/" target="blank"><img align="center"
-  <img src="https://media.discordapp.net/attachments/778418574221115413/882457233156345947/1630464587524.png?width=810&height=810" height="100"/>
+  <img src="https://cdn.discordapp.com/attachments/778418574221115413/1193762873126686780/IMG_20240107_224432.png?ex=65ade54f&is=659b704f&hm=3b5a0c6b58617ba520b59d21a0d7a3aef0f70ab646baae3e05786c94544514c9&" height="100"/>
 </p>
 <br>
-<img src="https://komarev.com/ghpvc/?username=aritsunii&label=Aritsuni profile views&color=yellow&style=flat-square" alt="aritsuni" />
 
 <details open>
   <summary>Mis enlaces</summary>
