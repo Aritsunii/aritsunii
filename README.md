@@ -21,7 +21,7 @@
          src="https://img.shields.io/badge/youtube-red.svg?style=for-the-badge&logo=youtube&logoColor=white"
          alt="aritsuni" height="30"/></a>
 <br/>
- <a href="https://www.instagram.com/zeitxen/" target="blank"><img align="center"
+ <a href="https://www.instagram.com/aritsuni/" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-orange.svg?style=for-the-badge&logo=instagram&logoColor=white"
          alt="aritsuni" height="30"/></a>
 <br/>
