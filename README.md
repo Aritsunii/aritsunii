@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/@aritsuni/" target="blank"><img align="center"
-  <img src="https://cdn.discordapp.com/attachments/778418574221115413/1193762873126686780/IMG_20240107_224432.png?ex=65ade54f&is=659b704f&hm=3b5a0c6b58617ba520b59d21a0d7a3aef0f70ab646baae3e05786c94544514c9&" height="100"/>
+  <img src="https://pbs.twimg.com/profile_images/1954051309125967872/JJZqh2gI_400x400.jpg" height="100"/>
 </p>
 <br>
 
@@ -143,6 +143,8 @@
 -                                                                                     :PGPPPPPPPPPPPPPPPGP5J!:                                                                                        .:~~        ~!~. ^~~~^    ~~~~^  ^~~~~ .~~~~~~~.  :~!!!~^.  ^~~~^:~~~: .~~~~:                          
 +                                                                                     .JPPPPPPPPPPPPPP5J7^.                                                                                                                                                                                                  
 ```
+![test svg.](https://cdn.discordapp.com/attachments/778418574221115413/1403262147932328037/rosy.svg?ex=689ed237&is=689d80b7&hm=49665435c1c0063c82295c820e8652ab14450725192f3a13db6c2007b29ed36d&)
+
   <div>
 
 </details>
@@ -189,6 +191,3 @@ endsolid
 
 <h2 align="center">Has llegado al final</h2>
 
-
-<p align="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/42e77aed-7849-491c-abc9-a5f665e44ffb/dfnj3p6-ab556f01-180b-4039-b167-5faec093e48e.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQyZTc3YWVkLTc4NDktNDkxYy1hYmM5LWE1ZjY2NWU0NGZmYlwvZGZuajNwNi1hYjU1NmYwMS0xODBiLTQwMzktYjE2Ny01ZmFlYzA5M2U0OGUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TIzT-xEle8p7pGm3KCri_uFnSaagtdUxRqyTheZGd9I" alt="sprigatito by aritsuni" ></p>
-<a href="https://www.youtube.com/@aritsuni/" target="blank"><img align="center"
