@@ -1,4 +1,4 @@
-<h2 align="center">Bienvenidos a mi perfil</h2>
+<h2 align="center"></h2>
 
 <p align="center">
   <a href="https://www.youtube.com/@aritsuni/" target="blank"><img align="center"
@@ -35,7 +35,7 @@
 
 <br/>
  <a href="https://www.twitter.com/aritsuni/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         src="https://img.shields.io/badge/x-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white"
          alt="aritsuni" height="30"/></a>
 <br/>
  <a href="https://www.vk.com/aritsuni/" target="blank"><img align="center"
@@ -61,10 +61,8 @@
 <div>
   <samp>
 
-> **Warning**
-> imagen svg  ← →
-                                                                 
-```
+> imagen svg
+                                                             
 ![test svg.](https://cdn.discordapp.com/attachments/778418574221115413/1403262147932328037/rosy.svg?ex=689ed237&is=689d80b7&hm=49665435c1c0063c82295c820e8652ab14450725192f3a13db6c2007b29ed36d&)
 
   <div>
@@ -111,5 +109,5 @@ endsolid
   <div>
 </details>
 
-<h2 align="center">Has llegado al final</h2>
+<h2 align="center"></h2>
 
