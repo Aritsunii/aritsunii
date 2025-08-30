@@ -56,7 +56,7 @@
 
 </details>
 
-<details> 
+<details open> 
   <summary>Personaje</summary>
 <div>
   <samp>
