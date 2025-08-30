@@ -7,7 +7,7 @@
 <br>
 
 <details open>
-  <summary>Mis enlaces</summary>
+  <summary>Links</summary>
 <div>
   <samp>
 
@@ -57,20 +57,19 @@
 </details>
 
 <details> 
-  <summary>Arte ascii</summary>
+  <summary>Personaje</summary>
 <div>
   <samp>
 
-> imagen svg
+> ari.webp
                                                              
-![test svg.](https://cdn.discordapp.com/attachments/778418574221115413/1403262147932328037/rosy.svg?ex=689ed237&is=689d80b7&hm=49665435c1c0063c82295c820e8652ab14450725192f3a13db6c2007b29ed36d&)
-
+![webp image](https://cdn.discordapp.com/attachments/834189904132046849/1411414379701866607/Screenshot_20250830_110834_1_1.jpg?ex=68b49192&is=68b34012&hm=581079b37d62baef6cfefcce2bea8f9bcb0fbf9ac92560806c1cff1f59e6cc60&)
   <div>
 
 </details>
 
 <details>
-  <summary>Modelo 3D</summary>
+  <summary>Test STL</summary>
 <div>
   <samp>
 
