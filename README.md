@@ -57,13 +57,13 @@
 </details>
 
 <details open> 
-  <summary>Personaje</summary>
+  <summary> </summary>
 <div>
   <samp>
 
-> ari.webp
+> 
                                                              
-![webp image](https://cdn.discordapp.com/attachments/834189904132046849/1411414379701866607/Screenshot_20250830_110834_1_1.jpg?ex=68b49192&is=68b34012&hm=581079b37d62baef6cfefcce2bea8f9bcb0fbf9ac92560806c1cff1f59e6cc60&)
+![]()
   <div>
 
 </details>
